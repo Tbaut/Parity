@@ -37,4 +37,4 @@ Metamsk beta allows to use an account from a JSON/UTC file. Here is how to proce
 - Enter the password corresponding to this account and click `unlock`.
 - You can now see the balance of your account and send Ether from it.
 
-![MyCrypto desktop app](public-wallet-recovery-mycrypto-desktop-app.gif)
+![MyCrypto desktop app](images/public-wallet-recovery-mycrypto-desktop-app.gif)
