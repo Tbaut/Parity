@@ -17,21 +17,21 @@ The service [wallet.parity.io](https://wallet.parity.io/) has been deprecated an
 
 ## View and use your account on Metamask beta
 
-Metamsk beta allows to use an account from a JSON/UTC file. Here is how to proceed:
-- If you havn't done so already download [Metamask](https://metamask.io/) on your favorit browser.
-- If you havn't any yet, create a dummy account to be able to use the beta version of Metamask.
+Metamsk beta allows using an account from a JSON/UTC file. Here is how to proceed:
+- If you haven't done so already download [Metamask](https://metamask.io/) on your favourite browser.
+- If you haven't any yet, create a dummy account to be able to use the beta version of Metamask.
 - In the hamburger menu from the top right corner, select `Try beta!`.
-- Using Metamask in full screen mode is more convenient, click on the arrow icon at the top right to switch to full screen.
+- Using Metamask in full-screen mode is more convenient, click on the arrow icon at the top right to switch to full screen.
 - Slick on the account image at the top right and select `Import account`.
 - Select type `JSON file`.
-- Select the previously downloaded JSON/UTC file and click import.
+- Select the previously downloaded JSON/UTC file and click `Import`.
 
 ![Metamask recovery JSON](images/public-wallet-recovery-memamask-beta.gif)
 
 ## View and use your account on MyCrypto Desktop application
 
-- Visit [MyCrypto download page]https://download.mycrypto.com/) and download the application for your platform.
-- Make sur to read and understand the warning.
+- Visit [MyCrypto download page](https://download.mycrypto.com/) and download the application for your platform.
+- Make sure to read and understand the warning.
 - Click on `Keystore File` button.
 - Click on `Select wallet file` and select the desired file.
 - Enter the password corresponding to this account and click `unlock`.
